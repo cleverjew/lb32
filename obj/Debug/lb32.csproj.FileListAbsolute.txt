@@ -1,0 +1,6 @@
+C:\Users\Eugene\Desktop\My\OOP\lb32\bin\Debug\lb32.exe.config
+C:\Users\Eugene\Desktop\My\OOP\lb32\bin\Debug\lb32.exe
+C:\Users\Eugene\Desktop\My\OOP\lb32\bin\Debug\lb32.pdb
+C:\Users\Eugene\Desktop\My\OOP\lb32\obj\Debug\lb32.csprojResolveAssemblyReference.cache
+C:\Users\Eugene\Desktop\My\OOP\lb32\obj\Debug\lb32.exe
+C:\Users\Eugene\Desktop\My\OOP\lb32\obj\Debug\lb32.pdb
